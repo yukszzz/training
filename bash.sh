@@ -1,1 +1,1 @@
-echo "<h1>Ini adalah test dari github dan jenkins</h1>" > index.html
+echo "<h1>Ini adalah test dari github dan jenkins yang trigger</h1>" > index.html
